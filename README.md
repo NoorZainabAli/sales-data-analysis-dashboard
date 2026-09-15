@@ -190,7 +190,7 @@ This project demonstrates practical skills in:
 **Noor Zainab Ali**
 
 **GitHub Profile:**
-[https://github.com/SmrutiSurekhaPati-hub](https://github.com/NoorZainabAli)
+https://github.com/NoorZainabAli
 
 
 ---
