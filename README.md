@@ -157,42 +157,37 @@ This project demonstrates practical skills in:
 * Git and GitHub version control
 
 ---
-
-## 📸 Dashboard Visualizations
-
 ### 📈 Monthly Sales Trend
 
-![Monthly Sales](monthly_sales.png)
+![Monthly Sales](visualizations/monthly_sales.png)
 
 ---
 
 ### 📊 Product-wise Sales
 
-![Product Sales](product_sales.png)
+![Product Sales](visualizations/product_sales.png)
 
 ---
 
 ### 🥧 Category-wise Sales
 
-![Category Sales](category_sales.png)
+![Category Sales](visualizations/category_sales.png)
 
 ---
 
 ### 🌍 Region-wise Sales
 
-![Region Sales](region_sales.png)
+![Region Sales](visualizations/region_sales.png)
 
 ---
 
 ### 💰 Profit Distribution
 
-![Profit Distribution](profit_distribution.png)
-
----
+![Profit Distribution](visualizations/profit_distribution.png)
 
 ## 👩‍💻 Author
 
-**Smruti Surekha Pati**
+**Noor Zainab Ali**
 
 **GitHub Profile:**
 https://github.com/SmrutiSurekhaPati-hub
