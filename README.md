@@ -190,10 +190,8 @@ This project demonstrates practical skills in:
 **Noor Zainab Ali**
 
 **GitHub Profile:**
-https://github.com/SmrutiSurekhaPati-hub
+[https://github.com/SmrutiSurekhaPati-hub](https://github.com/NoorZainabAli)
 
-**Project Repository:**
-https://github.com/SmrutiSurekhaPati-hub/Sales-Data-Analysis-Dashboard
 
 ---
 
